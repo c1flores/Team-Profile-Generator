@@ -5,14 +5,14 @@ test('creates an employee object', () => {
     const employee = new Employee('Gustavo');
 });
 
-//test to see if employee object uses constructor to configure id
+//test to see if employee object uses constructor to configure id property
 test('set an id with constructor', () => {
     const testValue = 100;
     const emp = new Employee('Foo', testValue);
     expect(emp.id).toBe(testValue);
 });
 
-//test to see if employee object uses constructor to configure email
+//test to see if employee object uses constructor to configure email property
 test('set email with constructor', () => {
     const testValue = 'emp@gmail.com';
     const emp = new Employee('Foo', 1, testValue);
