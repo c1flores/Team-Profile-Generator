@@ -71,7 +71,7 @@ const createTeam = team => {
             <div class="card-body bg-light">
               <ul class="list-group text-dark">
                 <li class="list-group-item">ID: ${engineer.getId()}</li>
-                <li class="list-group-item">Email: <a href="mailto: ${engineergetEmail()}">${engineer.getEmail()}</a></li>
+                <li class="list-group-item">Email: <a href="mailto: ${engineer.getEmail()}">${engineer.getEmail()}</a></li>
                 <li class="list-group-item">GitHub: <a href="https://github.com/${engineer.getGitHub()}">${engineer.getGitHub()}</a></li>
               </ul>
             </div>
@@ -98,7 +98,7 @@ const createTeam = team => {
         `;
     };
 
-    // creating an array that retrieves role and creates appropriate card
+    // creating an array that to use to create appropriate card on html
     const html = [];
     
     html.push(team.filter(employee => employee.getRole() === 'Manager').map(manager => createManager(manager)));

@@ -33,7 +33,7 @@ In the development phase, developers only spend time and effort as an expense so
   - Run "npm i init"
   - Run "npm i inquirer@8.2.4"
   - Run "npm i jest"
-  - Run "Node index.js"
+  - Run "node index.js"
   - Answer the prompts that follow
   - An index.html file will be generated and stored in "dist" folder
   - Run "npm run test"
