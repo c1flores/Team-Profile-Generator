@@ -17,7 +17,7 @@ In the development phase, developers only spend time and effort as an expense so
 ![To Do]()
 
 ## Link to Screen Recording of Application
-[To Do]()
+[Google Drive Link](https://drive.google.com/file/d/1tLloGdNY4y0uFCW7dVaPTKS29s7X79Vz/view?usp=sharing)
 
 ## Installation
 

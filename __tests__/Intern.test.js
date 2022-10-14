@@ -1,5 +1,5 @@
 
-const Employee = require ('..lib/Employee');
+const Employee = require ('../lib/Employee');
 const Intern = require('../lib/Intern');
 
 //test to see if intern object is created

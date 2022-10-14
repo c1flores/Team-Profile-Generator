@@ -1,4 +1,4 @@
-const Employee = require ('..lib/Employee');
+const Employee = require ('../lib/Employee');
 
 //test to see if employee object is created
 test('creates an employee object', () => {
