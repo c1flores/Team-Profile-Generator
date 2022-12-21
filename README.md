@@ -21,20 +21,15 @@ In the development phase, developers only spend time and effort as an expense so
 
 ## Installation
 
-  - Fork repository
-  - Setup Node project
-  - Install dependencies
-  - Ensure Inquirer package (version 8.2.4) is installed
-  - Ensure Jest package is installed 
+  1. Fork repository
+  2. Run ```npm i```
   
 ## Usage
 
-  - Open integrated terminal in personal IDE
-  - Run "npm i init"
-  - Run "npm i inquirer@8.2.4"
-  - Run "npm i jest"
-  - Run "node index.js"
-  - Answer the prompts that follow
-  - An index.html file will be generated and stored in "dist" folder
-  - Run "npm run test"
-  - Terminal will display 4 passed test suites as well as 16 passed tests
+  1. Open integrated terminal in personal IDE
+  2. Run ```npm i```
+  3. Run ```node index.js```
+  4. Answer the prompts that follow
+     - An index.html file will be generated and stored in "dist" folder
+  5. Run ```npm run test```
+     - Terminal will display 4 passed test suites as well as 16 passed tests
