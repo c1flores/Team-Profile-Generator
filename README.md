@@ -21,8 +21,8 @@ In the development phase, developers only spend time and effort as an expense so
 
 ## Installation
 
-  1. Fork repository
-  2. Run ```npm i```
+  1. Fork and clone repository to local machine.
+  2. Run ```npm i``` to install dependencies in local project directory. 
   
 ## Usage
 
