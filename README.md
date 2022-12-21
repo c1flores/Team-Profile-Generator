@@ -22,14 +22,15 @@ In the development phase, developers only spend time and effort as an expense so
 ## Installation
 
   1. Fork and clone repository to local machine.
-  2. Run ```npm i``` to install dependencies in local project directory. 
+  2. Open integrated terminal in personal IDE.
+  3. Run ```npm i``` to install dependencies in local project directory. 
   
 ## Usage
 
-  1. Open integrated terminal in personal IDE
-  2. Run ```npm i```
-  3. Run ```node index.js```
-  4. Answer the prompts that follow
-     - An index.html file will be generated and stored in "dist" folder
-  5. Run ```npm run test```
-     - Terminal will display 4 passed test suites as well as 16 passed tests
+  1. Open integrated terminal in personal IDE.
+  2. Run ```npm i```.
+  3. Run ```node index.js```.
+  4. Answer the prompts that follow.
+     - An index.html file will be generated and stored in "dist" folder.
+  5. Run ```npm run test```.
+     - Terminal will display 4 passed test suites as well as 16 passed tests.
