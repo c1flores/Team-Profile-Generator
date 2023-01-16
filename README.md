@@ -4,7 +4,7 @@
   - [Why does Test Driven Development matter?](#why-does-test-driven-development-matter)
   - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
-  - [Link to Screen Recording of Application](#link-to-screen-recording-of-application)
+  - [Full Walkthrough Video](#full-walkthrough-video)
   - [Installation](#installation)
   - [Usage](#usage)
   
@@ -34,8 +34,8 @@ In the development phase, developers only spend time and effort as an expense so
 ## Screen Capture
 ![](https://user-images.githubusercontent.com/81927296/195948813-5e5b876f-4f58-44a6-80b3-37dcedaecb32.gif)
 
-## Link to Screen Recording of Application
-[Google Drive Link](https://drive.google.com/file/d/1tLloGdNY4y0uFCW7dVaPTKS29s7X79Vz/view?usp=sharing)
+## Full Walkthrough Video
+[Link](https://drive.google.com/file/d/1tLloGdNY4y0uFCW7dVaPTKS29s7X79Vz/view?usp=sharing)
 
 ## Installation
 
