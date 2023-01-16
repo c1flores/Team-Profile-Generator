@@ -13,12 +13,6 @@ This repository is an exhibition of a software engineering team profile generato
 ## Why does Test Driven Development matter?
 In the development phase, developers only spend time and effort as an expense so their goal is always to try and save time. This does not meaning coding faster, it means coding effectively and efficiently. Bugs, defects, and errors all cause time loss. This repository includes an instance of TTD known as Unit Testing, which aims to test units and components that are the smallest piece of code in isolation of the system as a whole. 
 
-## Screen Capture
-![](https://user-images.githubusercontent.com/81927296/195948813-5e5b876f-4f58-44a6-80b3-37dcedaecb32.gif)
-
-## Link to Screen Recording of Application
-[Google Drive Link](https://drive.google.com/file/d/1tLloGdNY4y0uFCW7dVaPTKS29s7X79Vz/view?usp=sharing)
-
 ## Technologies Used
 
 <div style="display: inline_block"><br>
@@ -35,6 +29,12 @@ In the development phase, developers only spend time and effort as an expense so
 </div>
 
 </br>
+
+## Screen Capture
+![](https://user-images.githubusercontent.com/81927296/195948813-5e5b876f-4f58-44a6-80b3-37dcedaecb32.gif)
+
+## Link to Screen Recording of Application
+[Google Drive Link](https://drive.google.com/file/d/1tLloGdNY4y0uFCW7dVaPTKS29s7X79Vz/view?usp=sharing)
 
 ## Installation
 
