@@ -2,6 +2,7 @@
 
   - [Overview](#overview)
   - [Why does Test Driven Development matter?](#why-does-test-driven-development-matter)
+  - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
   - [Link to Screen Recording of Application](#link-to-screen-recording-of-application)
   - [Installation](#installation)
