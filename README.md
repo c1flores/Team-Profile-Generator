@@ -1,7 +1,10 @@
-# Table of Contents
+<!-- omit in toc -->
+# Team-Profile-Generator
 
+<!-- omit in toc -->
+## Table of Contents
   - [Overview](#overview)
-  - [Why does Test Driven Development Matter?](#why-does-test-driven-development-Matter)
+  - [Why does Test Driven Development Matter?](#why-does-test-driven-development-matter)
   - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
   - [Full Walkthrough Video](#full-walkthrough-video)
@@ -15,7 +18,6 @@ This repository is an exhibition of a software engineering team profile generato
 In the development phase, developers only spend time and effort as an expense so their goal is always to try and save time. This does not meaning coding faster, it means coding effectively and efficiently. Bugs, defects, and errors all cause time loss. This repository includes an instance of TTD known as Unit Testing, which aims to test units and components that are the smallest piece of code in isolation of the system as a whole. 
 
 ## Technologies Used
-
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Chris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,13 +40,11 @@ In the development phase, developers only spend time and effort as an expense so
 [Link](https://drive.google.com/file/d/1tLloGdNY4y0uFCW7dVaPTKS29s7X79Vz/view?usp=sharing)
 
 ## Installation
-
   1. Fork and clone repository to local machine.
   2. Open integrated terminal in personal IDE.
   3. Run ```npm i``` to install dependencies in local project directory. 
   
 ## Usage
-
   1. Open integrated terminal in personal IDE.
   2. Run ```npm i```.
   3. Run ```node index.js```.
